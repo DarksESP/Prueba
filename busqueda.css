@@ -4,8 +4,13 @@ ul {
 }
 
 li {
+<<<<<<< HEAD
     margin-bottom: 25px;
     color: #e61414;
+=======
+    margin-bottom: 70px;
+    color: #74c787;
+>>>>>>> lider
 }
 
 a {
@@ -18,8 +23,14 @@ a:hover {
 }
 
 p  {
+<<<<<<< HEAD
 font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 color: rgb(205, 205, 210);
 text-align: center;
+=======
+font-family: 'Times New Roman', Times, serif;
+color: rgb(23, 23, 37);
+
+>>>>>>> lider
 }
 
